@@ -1,0 +1,74 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  left-padding: 5px;
+  margin: 8px;
+}
+
+.folder {
+  cursor: pointer;
+}
+
+.btn {
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.otp {
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+  margin-top: 20%;
+  text-align: center;
+  font-size: 40px;
+}
+
+.tab-btn {
+  height: 100px;
+  margin: 5px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.active {
+  background-color: bisque;
+  border-radius: 20px;
+}
+
+.submit {
+  margin-top: 10%;
+  height: 40px;
+  background-color: lightseagreen;
+  color: white;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.submit:hover {
+  background-color: skyblue;
+}
+
+.board {
+  height: 100vh;
+  position: relative;
+}
+
+.chips {
+  background: gainsboro;
+  max-width: fit-content;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chipbtn {
+  margin: 5px;
+  color: red;
+  cursor: pointer;
+}

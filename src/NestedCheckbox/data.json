@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "label": "Fruits",
+    "children": [
+      {
+        "id": 2,
+        "label": "Apple"
+      },
+      {
+        "id": 3,
+        "label": "Banana"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "label": "Vegetables",
+    "children": [
+      {
+        "id": 5,
+        "label": "Leafy",
+        "children": [
+          {
+            "id": 6,
+            "label": "Spinach"
+          },
+          {
+            "id": 7,
+            "label": "Lettuce"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Carrot"
+      }
+    ]
+  }
+]
